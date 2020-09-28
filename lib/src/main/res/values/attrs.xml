@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="backgroundDrawable" format="reference|color" />
+    <attr name="progressDrawable" format="reference|color" />
+    <attr name="progressBackgroundDrawable" format="reference|color" />
+    <attr name="cornerRadius" format="dimension" />
+
+    <declare-styleable name="ProgressButton">
+        <attr name="backgroundDrawable" />
+        <attr name="progressDrawable" />
+        <attr name="progressBackgroundDrawable" />
+        <attr name="cornerRadius" />
+    </declare-styleable>
+</resources>
